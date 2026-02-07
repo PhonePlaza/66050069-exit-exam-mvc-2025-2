@@ -1,0 +1,11 @@
+rumourId,title,source,createdDate,credibilityScore,status,verified,verificationResult
+12345678,น้ำประปาปนเปื้อนสารพิษ,Facebook,01/02/2026,25,PANIC,false,
+23456789,วัคซีนมีชิปติดตาม,Twitter,02/02/2026,15,PANIC,true,FALSE
+34567890,ธนาคารจะล้มละลาย,Line,03/02/2026,30,NORMAL,false,
+45678901,อาหารกระป๋องหมดอายุถูกนำมาขาย,Facebook,04/02/2026,40,NORMAL,false,
+56789012,ไฟไหม้โรงงานใหญ่,Twitter,05/02/2026,70,PANIC,true,TRUE
+67890123,รัฐบาลซ่อนข้อมูลโรคระบาด,Line,06/02/2026,20,PANIC,false,
+78901234,น้ำมันจะขึ้นราคา 50%,Facebook,07/02/2026,35,PANIC,true,FALSE
+89012345,แผ่นดินไหวจะเกิดขึ้นเร็วๆนี้,Twitter,08/02/2026,10,PANIC,true,FALSE
+90123456,อินเทอร์เน็ตจะล่มทั่วประเทศ,Line,09/02/2026,45,NORMAL,false,
+10234567,เศรษฐกิจจะดีขึ้นภายในปีนี้,Facebook,10/02/2026,80,NORMAL,true,TRUE

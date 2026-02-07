@@ -1,0 +1,13 @@
+userId,name,role
+U001,สมชาย ใจดี,REGULAR_USER
+U002,สมหญิง รักษ์ไทย,VERIFIER
+U003,วิชัย เก่งมาก,REGULAR_USER
+U004,มาลี สวยงาม,REGULAR_USER
+U005,ประเสริฐ มั่นคง,REGULAR_USER
+U006,นิภา สดใส,VERIFIER
+U007,อนันต์ รุ่งเรือง,REGULAR_USER
+U008,พิมพ์ ลออ,REGULAR_USER
+U009,ธนา ร่ำรวย,REGULAR_USER
+U010,กมล เจริญ,REGULAR_USER
+U011,สุนีย์ ผ่องใส,REGULAR_USER
+U012,ชัยยุทธ์ ยิ่งใหญ่,VERIFIER
